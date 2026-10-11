@@ -316,10 +316,3 @@ Only include screenshots you have actually captured.
 
 This project is intended for educational and authorized security testing in an isolated lab environment. Perform SSH testing only on systems you own or have explicit permission to assess.
 
-## 👨‍💻 Author
-
-**Name:** Your Name
-
-**GitHub:** [Your GitHub Profile](https://github.com/your-username)
-
-**Project:** SSH Brute-Force Attack Detection Using Splunk
